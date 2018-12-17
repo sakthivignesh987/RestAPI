@@ -1,2 +1,0 @@
-# RestAPI
-Sample RestAPI project
